@@ -84,3 +84,4 @@ This project serves as a tribute to Apple's design and technological innovation 
 
 ### Citations:
 [1] https://github.com/HamashiachCreatives/iPhone-15-Website
+[2] https://github.com/adrianhajdin/iphone
