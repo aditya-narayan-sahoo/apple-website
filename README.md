@@ -83,5 +83,5 @@ Open your browser and go to `http://localhost:5173` to view the website in actio
 This project serves as a tribute to Apple's design and technological innovation while showcasing advanced web animation techniques. Feel free to explore, modify, and enhance this project as you wish!
 
 ### Citations:
-[1] https://github.com/HamashiachCreatives/iPhone-15-Website
-[2] https://github.com/adrianhajdin/iphone
+- [1] https://github.com/HamashiachCreatives/iPhone-15-Website
+- [2] https://github.com/adrianhajdin/iphone
